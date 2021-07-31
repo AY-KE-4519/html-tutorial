@@ -48,4 +48,16 @@ So to create a paragraph, in the `<body>` section below the `<h6>` you just wrot
 <p>This is a paragraph</p>
 ```
 
+## Horizontal rules
+
+Horizontal rules are just normal horizontal lines which help in dividing sections. So to create one simply add an `<hr>` tag where you want to make the divider. Like this:
+
+```html
+<h3>Section 1</h3>
+<p>So this is some dummy text to cover up section 1's content.</p>
+<hr>
+<h3>Section 2</h3>
+<p>This is some more dummy text to cover up section 2's content.</p>
+```
+
 And now with all this learnt, I want you to make a basic webpage about any topic you want. This is just for you to get your hands dirty in these basic html tags.

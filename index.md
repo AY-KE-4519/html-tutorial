@@ -96,7 +96,7 @@ Making tables is a bit more complicated, but here is how we can do it.
   <tr>
     <td>Just some dummy</td>
     <td>Just some dummy</td>
-    <td>Just some dummy</td<
+    <td>Just some dummy</td>
   </tr>
   <tr>
     <td>text in col 1</td>

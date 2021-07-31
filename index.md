@@ -38,7 +38,7 @@ So there are 6 heading levels, in the order of biggest to smallest.
 
 Now I want you to try out this webpage by opening this html file in the browser of your choice. Everytime you make a change and save file, reload the webpage to see the difference.
 
-# Paragraphs
+## Paragraphs
 
 Now these are the most important of all, the paragraphs. They take up a big chunk of the websites content.
 

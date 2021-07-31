@@ -61,3 +61,52 @@ Horizontal rules are just normal horizontal lines which help in dividing section
 ```
 
 And now with all this learnt, I want you to make a basic webpage about any topic you want. This is just for you to get your hands dirty in these basic html tags.
+
+## Links
+
+Links are extremely important when you want your user to navigate from one page to another. So to do that is as easy as follows:
+
+```html
+<p>Navigate to the website of <a href="www.google.com">google</a>.
+```
+
+## Images
+
+Images can easily be added with the `<img>` tag as follows:
+
+```html
+<img src="image_url/or/path/to/the/file" height="100px" width="100px"></img>
+```
+
+We can even make a link image by containing `<img>` tag in the `<a>` tag.
+
+## Tables
+
+Making tables is a bit more complicated, but here is how we can do it.
+
+```html
+<table border=1>
+  <thead>
+    <tr>
+      <th>Col 1</th>
+      <th>Col 2</th>
+      <th>Col 3</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>Just some dummy</td>
+    <td>Just some dummy</td>
+    <td>Just some dummy</td<
+  </tr>
+  <tr>
+    <td>text in col 1</td>
+    <td>text in col 2</td>
+    <td>text in col 3</td>
+  </tr>
+</table>
+```
+
+It is kind of complicated, but try it out, it is a good way to show data, and also you can use it as layout manager.
+
+With all this learnt, now I again want you to try building a website about any topic you want.
+      
